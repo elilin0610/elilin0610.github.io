@@ -1,3 +1,5 @@
+**繁體中文** · [English](./README.en.md) · [日本語](./README.ja.md)
+
 # FINAL 手冊
 
 ## 作業都在homework資料夾中

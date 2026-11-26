@@ -1,3 +1,5 @@
+**繁體中文** · [English](./README.en.md) · [日本語](./README.ja.md)
+
 # 部落格系統 - 習題6
 
 這是一個簡單的部落格系統，使用 Deno 和 SQLite 開發，可以新增和顯示貼文。
