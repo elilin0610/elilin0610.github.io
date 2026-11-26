@@ -1,3 +1,5 @@
+[繁體中文](./README.zh-TW.md) · **English** · [日本語](./README.ja.md)
+
 # Personal Website with Oak Framework
 
 This is a simple personal website created using Deno and Oak framework as required by Homework 5.
